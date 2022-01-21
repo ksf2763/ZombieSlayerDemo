@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{19892b27-17fa-4ecf-86b8-8abf7c57126f}">
+		<property name="name">
+			<value>DoorOpened</value>
+		</property>
+		<relationship name="folder">
+			<destination>{94ea6157-9579-4262-9fce-94a7e4d747a9}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{41f5fbc9-5d81-488b-a05f-ef3b366394f8}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{41f5fbc9-5d81-488b-a05f-ef3b366394f8}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

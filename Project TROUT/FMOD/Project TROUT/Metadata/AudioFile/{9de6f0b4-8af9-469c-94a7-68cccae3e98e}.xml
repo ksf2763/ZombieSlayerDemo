@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{9de6f0b4-8af9-469c-94a7-68cccae3e98e}">
+		<property name="assetPath">
+			<value>445983__breviceps__zombie-gargles.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.86687074829931976</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{67402ef1-6345-4745-92d4-28d92b86ac83}</destination>
+		</relationship>
+	</object>
+</objects>
